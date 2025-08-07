@@ -6,6 +6,7 @@ Welcome to my GitHub profile.
 - 🧑‍💻 Software Developer passionate about building impactful solutions.
 - 🌱 Currently learning new technologies and frameworks.
 - 💡 I love collaborating on open-source projects and sharing knowledge.
+- 🧩 Driven by a love for problem-solving, I’m eager to make my mark in competitive programming and algorithm challenges.
 
 ## 🛠️ Skills & Technologies
 ## Skills
