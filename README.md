@@ -25,10 +25,11 @@ Welcome to my GitHub profile.
 </p>
 <!-- Add more skills as needed -->
 
-## 📊 LeetCode Progress
+<!-- ## 📊 LeetCode Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/utkarshs08?ext=activity)](https://leetcode.com/u/utkarshs08/)
+<!-- [[LeetCode Stats](https://leetcard.jacoblin.cool/utkarshs08?ext=activity)](https://leetcode.com/u/utkarshs08/)
 <!-- This badge auto-updates your LeetCode stats. If you want more customization, visit https://leetcard.jacoblin.cool/ -->
+
 
 ## 📈 GitHub Stats
 
