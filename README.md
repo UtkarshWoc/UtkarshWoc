@@ -48,18 +48,6 @@ Building scalable applications, solving DSA problems, and exploring backend engi
 
 ---
 
-<div align="center">
-
-### 🏆 LeetCode
-
-<a href="https://leetcode.com/u/utkarshs08/">
-<img src="https://leetcard.jacoblin.cool/utkarshs08?theme=dark&font=Nunito&ext=contest"/>
-</a>
-
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science student
