@@ -1,46 +1,155 @@
-# Hi there, I'm Utkarsh! 👋
+````markdown
+<div align="center">
 
-Welcome to my GitHub profile.
+# Hey, I'm Utkarsh 👋
 
-## 🚀 About Me
-- 🧑‍💻 Software Developer passionate about building impactful solutions.
-- 🌱 Currently learning new technologies and frameworks.
-- 💡 I love collaborating on open-source projects and sharing knowledge.
-- 🧩 Driven by a love for problem-solving, I’m eager to make my mark in competitive programming and algorithm challenges.
+### Software Developer • Computer Science Student • Problem Solver
 
-## 🛠️ Skills & Technologies
-## Skills
+Building software that is clean, scalable, and meaningful.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
-<!-- Add more skills as needed -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Enthusiast;Open+Source+Learner;Always+Building+Something+New" alt="Typing SVG"/>
 
-<!-- ## 📊 LeetCode Progress
+![](https://komarev.com/ghpvc/?username=UtkarshWoc&label=Profile+Views&style=flat-square&color=3B82F6)
 
-<!-- [[LeetCode Stats](https://leetcard.jacoblin.cool/utkarshs08?ext=activity)](https://leetcode.com/u/utkarshs08/)
-<!-- This badge auto-updates your LeetCode stats. If you want more customization, visit https://leetcard.jacoblin.cool/ -->
-
-
-## 📈 GitHub Stats
-
-![UtkarshWoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshWoc&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshWoc&layout=compact&theme=radical)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshwoc/)
-[![Email](https://img.shields.io/badge/Email-utkarshdotdev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshdotdev@gmail.com)
+</div>
 
 ---
 
-_Thanks for visiting! Have a great day!_ 😊
+## 🚀 About Me
+
+```cpp
+class Developer {
+public:
+    string name = "Utkarsh";
+    string role = "B.Tech CSE Student";
+    string university = "Bennett University";
+
+    vector<string> interests = {
+        "Backend Development",
+        "System Design",
+        "Open Source",
+        "Competitive Programming",
+        "DevOps"
+    };
+
+    string currentlyLearning = "Full Stack Development & Cloud";
+
+    string motto() {
+        return "Learn → Build → Improve → Repeat";
+    }
+};
+````
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" />
+</p>
+
+### Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,redis,nginx,typescript,nextjs" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=UtkarshWoc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshWoc&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=UtkarshWoc&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshWoc\&theme=tokyo-night\&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=UtkarshWoc\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=12\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# 🧠 Coding
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/utkarshs08?theme=dark\&font=Nunito\&ext=contest)](https://leetcode.com/u/utkarshs08/)
+
+</div>
+
+---
+
+# 🌱 What I'm Working On
+
+* 🚀 Building full-stack web applications
+* 📚 Learning scalable backend architecture
+* 🧩 Improving problem-solving through DSA
+* 🐳 Exploring Docker, Linux, and Cloud technologies
+* 🤝 Looking to contribute more to Open Source
+
+---
+
+# 📂 Featured Projects
+
+> Coming soon...
+
+Here are a few repositories I'm actively building and improving.
+Stay tuned!
+
+---
+
+# 📫 Reach Me
+
+<p align="left">
+
+<a href="mailto:utkarshdotdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Great software isn't just written—it's engineered."
+
+Thanks for visiting my profile ⭐
+
+</div>
+```
