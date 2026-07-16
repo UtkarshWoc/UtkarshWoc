@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Utkarsh</h1>
 
 <h3 align="center">
-Software Developer • B.Tech CSE @ Bennett University
+Software Developer • B.Tech CSE
 </h3>
 
 <p align="center">
@@ -62,7 +62,7 @@ Building scalable applications, solving DSA problems, and exploring backend engi
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science student at **Bennett University**
+- 🎓 B.Tech Computer Science student
 - 💻 Passionate about Backend Development & Full Stack Engineering
 - 🧩 Enjoy solving Data Structures & Algorithms problems
 - 🐳 Exploring Docker, Cloud, and System Design
