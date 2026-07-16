@@ -1,62 +1,107 @@
-```markdown
-<h1 align="center">Utkarsh</h1>
+<h1 align="center">Hey 👋, I'm Utkarsh</h1>
+
+<h3 align="center">
+Software Developer • B.Tech CSE @ Bennett University
+</h3>
 
 <p align="center">
-Software Engineer in Progress • Building things for the web
-</p>
-
-<p align="center">
-Currently learning distributed systems, backend engineering and cloud.
+Building scalable applications, solving DSA problems, and exploring backend engineering.
 </p>
 
 ---
 
-## About
+<div align="center">
 
-I'm a Computer Science student who enjoys building software that solves real problems.
+### 💻 Tech Stack
 
-These days you'll usually find me:
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,nodejs,express,react,mongodb,mysql,docker,git,github,linux,vscode&perline=8"/>
 
-- shipping side projects
-- solving DSA problems
-- learning backend architecture
-- experimenting with Docker and cloud
-- contributing to open source whenever I can
+</div>
 
 ---
 
-## Tech
+<div align="center">
 
-<p>
+### 🌱 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,express,mongodb,mysql,docker,git,linux,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,aws,redis&perline=4"/>
 
-</p>
-
----
-
-## Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=UtkarshWoc&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshWoc&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## Currently
+<div align="center">
 
-- Building better full-stack projects
-- Exploring system design
-- Learning cloud infrastructure
-- Writing cleaner code than yesterday
+### 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=UtkarshWoc&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshWoc&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=UtkarshWoc&theme=github-dark-blue&hide_border=true"/>
+
+</div>
 
 ---
 
-## Contact
+<div align="center">
 
-📧 utkarshdotdev@gmail.com
-```
+### 🏆 LeetCode
+
+<a href="https://leetcode.com/u/utkarshs08/">
+<img src="https://leetcard.jacoblin.cool/utkarshs08?theme=dark&font=Nunito&ext=contest"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science student at **Bennett University**
+- 💻 Passionate about Backend Development & Full Stack Engineering
+- 🧩 Enjoy solving Data Structures & Algorithms problems
+- 🐳 Exploring Docker, Cloud, and System Design
+- 🌱 Always learning something new
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Building real-world projects
+- 📚 Learning scalable backend systems
+- ☁️ Exploring Cloud & DevOps
+- 🤝 Contributing to Open Source
+
+---
+
+<div align="center">
+
+### 📫 Reach Me
+
+<a href="mailto:utkarshdotdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
