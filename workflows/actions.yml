@@ -1,0 +1,22 @@
+name: Keep Render Services Awake
+
+on:
+  schedule:
+    # Runs every 10 minutes (gives a 5-minute buffer before Render's 15-min spin-down)
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Lets you trigger a test run manually
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Render health endpoints
+        run: |
+          URLS=(
+            "https://studytantra-mern-1.onrender.com/health"
+          )
+
+          for url in "${URLS[@]}"; do
+            echo "Pinging $url..."
+            curl -fsS --max-time 60 "$url" || echo "Failed to reach $url"
+          done
