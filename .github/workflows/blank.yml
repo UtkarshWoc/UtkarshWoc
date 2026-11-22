@@ -14,7 +14,7 @@ jobs:
       - name: Ping Render apps
         run: |
           URLS=(
-            "https://studytantra-mern-1.onrender.com"
+            "https://studytantra-mern-1.onrender.com/health"
             # Add more Render URLs below as needed:
             # "https://another-project.onrender.com"
           )
