@@ -13,8 +13,7 @@ jobs:
       - name: Ping Render health endpoints
         run: |
           URLS=(
-            "https://project-one.onrender.com/health"
-            "https://project-two.onrender.com/health"
+            "https://studytantra-mern-1.onrender.com/health"
           )
 
           for url in "${URLS[@]}"; do
